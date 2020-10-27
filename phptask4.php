@@ -94,6 +94,15 @@
 						<td><input type="text"placeholder="Postal/Zip Code"></td>
 					</tr>
 					<tr>
+						<select name="dob_day" id="dob_day">
+							<?php
+								for ($i=1; $i < 31; $i++) { 
+									echo 'option value="'.$i.'">'.$i.'</option>';
+								}
+							?>
+						</select>
+					</tr>
+					<tr>
 						<td>Gender: <?php echo $err_gender;?></td>
 						<td>
 							<input type="radio" name="gender" value="Male"> Male
