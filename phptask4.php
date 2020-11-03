@@ -126,7 +126,10 @@
 		{
 			$err_phone = "*Required numeric charecter";
 		}
-		else{ $phone_no = htmlspecialchars($_POST["number"]);}
+		else
+		{
+			 $phone_no = htmlspecialchars($_POST["number"]);
+		}
 		
 		if(empty($_POST["street"]))
 		{
