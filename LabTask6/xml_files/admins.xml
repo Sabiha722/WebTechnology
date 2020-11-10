@@ -1,9 +1,26 @@
 <?xml version="1.0"?>
 <admins>
   <user>
-  <username>abs</username>
-  <password>tbs</password>
-  <type>user</type>
-</user>
-
-</admins>
+    <username>abs</username>
+    <password>tbs</password>
+    <type>user</type>
+  </user>
+  <user>
+    <username>oyegg</username>
+    <password>Sabiha#@1234</password>
+    <gender>Female</gender>
+    <email>Sabiha722@gmail.com</email>
+    <phone>1122</phone>
+    <city>Dhaka</city>
+    <type>user</type>
+  </user>
+  <user>
+    <username>oyegg</username>
+    <password>Sabiha#@1234</password>
+    <gender>Female</gender>
+    <email>Sabiha722@gmail.com</email>
+    <phone>1122</phone>
+    <city>Dhaka</city>
+    <type>user</type>
+  </user>
+</adm

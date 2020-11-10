@@ -1,4 +1,14 @@
 <?xml version="1.0"?>
 <books>
-
+  <book>
+    <fullname>dfdsf</fullname>
+    <category>Architecture</category>
+    <desc>sdfdf</desc>
+    <publisher>fgfdg</publisher>
+    <edition>fgfbb</edition>
+    <isbn>fbvcvbvb</isbn>
+    <pages>cvbvb</pages>
+    <price>vbnvbn</price>
+    <type>book</type>
+  </book>
 </books>

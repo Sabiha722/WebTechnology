@@ -1,16 +1,26 @@
 <!DOCTYPE html>
 
-<?php
- session_start();
-?>
+<?php include_once "../php_files/redirect_login.php" ;?>
 
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Dashboard</title>
+      <link rel="stylesheet" href="../css_files/dashboard.css"></head>
   </head>
   <body>
-    <h1>Welcome  <?php echo $_SESSION["username"]; ?></h1>
+    <div class="container">
+  <img src="../resource_files/headerlogo1.jpg" alt="background_header">
+  <div class="centered"><h1>Book Store</h1></div>
+</div>
 
-  </body>
+<table>
+
+  <tr>
+    <td></td>
+  </tr>
+
+</table>
+
+</body>
 </html>
