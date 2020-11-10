@@ -8,4 +8,26 @@
   position: relative;
   text-align: center;
   color: white;
+
+}
+#book_table{
+  padding: 5px;
+}
+
+th{
+  color: green;
+  padding: 10px;
+
+  text-align: left;
+}
+tr,td{
+  padding: 20px;
+  text-align: left;
+}
+table {
+  padding-left: 100px;
+  width: 100%;
+}
+img{
+  text-align: center;
 }

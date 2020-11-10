@@ -1,14 +1,31 @@
 <?xml version="1.0"?>
 <books>
   <book>
-    <fullname>dfdfs</fullname>
-    <category>Architecture</category>
-    <desc>sdfdf</desc>
-    <publisher>fgfgd</publisher>
-    <edition>dfgfg</edition>
-    <isbn>bvcfvbvb</isbn>
-    <pages>cvbcvb</pages>
-    <price>vbnvbn</price>
+    <bookname>Land of Wano</bookname>
+    <category>Science</category>
+    <desc>Wano Country is a country in the New World that is not affiliated with the World Government.It is currently occupied by the Beasts Pirates as their territory, under Kaido, one of the Four Emperors.</desc>
+    <publisher>Oda</publisher>
+    <edition>21th</edition>
+    <isbn>bte23456</isbn>
+    <pages>949</pages>
+    <price>$400</price>
+    <image>../resource_files/book_default.png</image>
+    <type>book</type>
+  </book>
+  <book>
+    <bookname>One Piece</bookname>
+    <category>Anime</category>
+    <desc>One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's Weekly Shōnen Jump magazine since July 1997, with its individual chapters compiled into 97 tankōbon volumes as of September 2020. The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world's ultimate treasure known as "One Piece" in order to become the next King of the Pirates. In August 2020, it was announced that One Piece was approaching its final arc.
+
+The manga spawned a media franchise, having been adapted into a festival film produced by Production I.G, and an anime series produced by Toei Animation, which began broadcasting in Japan in 1999. Additionally, Toei has developed fourteen animated feature films, one original video animation and thirteen television specials. Several companies have developed various types of merchandising and media, such as a trading card game and numerous video games. The manga series was licensed for an English language release in North America and the United Kingdom by Viz Media and in Australia by Madman Entertainment. The anime series was licensed by 4Kids Entertainment for an English-language release in North America in 2004, before the license was dropped and subsequently acquired by Funimation in 2007.
+
+One Piece has received praise for its storytelling, art, characterization, and humor. Several volumes of the manga have broken publishing records, including the highest initial print run of any book in Japan. The official website for Eiichiro Oda's One Piece manga announced that the manga has set the Guinness World Record for "the most copies published for the same comic book series by a single author". As of April 2020, the manga had over 470 million copies in circulation in 43 countries worldwide, making it the best-selling manga series in history. It became the best-selling manga for the eleventh consecutive year in 2018. One Piece is one of the highest-grossing media franchises of all time, estimated to have generated more than $21 billion in total franchise revenue, from the manga, anime, films, games and merchandise.</desc>
+    <publisher>Luffy</publisher>
+    <edition>21th</edition>
+    <isbn>gomuno1245</isbn>
+    <pages>450</pages>
+    <price>$500</price>
+    <image>../resource_files/book_default.png</image>
     <type>book</type>
   </book>
 </books>

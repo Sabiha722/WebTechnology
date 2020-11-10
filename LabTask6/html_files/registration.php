@@ -1,14 +1,15 @@
 <?php include_once "../php_files/registration.php" ;?>
 <html>
-	<head>
+  <head>
+    <title>Registration</title>
   <link rel="stylesheet" href="../css_files/registration.css"></head>
-	<body>
+  <body>
 
-		<fieldset id="register_form" >
+    <fieldset id="register_form" >
       <h1>Welcome to Registration.</h1>
 
-			<form action="" method="post"  >
-				<table>
+      <form action="" method="post"  >
+        <table>
           <tr>
           <td style="text-align: left;"> Full Name: </td>
           <td style="text-align: left;"><input type="text" name="fullname" value=<?php echo $fullname; ?>><span><?php echo $error_fullname; ?></span></td>
@@ -47,7 +48,7 @@
 
           </td>
           </tr>
-
+          
           <tr>
           <td style="text-align: left;">City: </td>
           <td style="text-align: left; ">
@@ -64,8 +65,8 @@
           <input type="submit" name="register" value="Register">
           </td>
           </tr>
-				</table>
-			</form>
-		</fieldset>
-	</body>
+        </table>
+      </form>
+    </fieldset>
+  </body>
 </html>

@@ -13,14 +13,24 @@
   <img src="../resource_files/headerlogo1.jpg" alt="background_header">
   <div class="centered"><h1>Book Store</h1></div>
 </div>
-
-<table>
-
+<table id="book_table" border="1" class-"container">
   <tr>
-    <td></td>
+    <td colspan="7"> <a href="add_book.php"> Add New Book</td>
+
   </tr>
 
-</table>
+  <tr>
+    <th> SR. NO </th>
+      <th> NAME  </th>
+        <th> PUBLISHER  </th>
+          <th> ISBN </th>
+            <th> PRICE </th>
+              <th>IMAGE  </th>
+                <th> DELETE </th>
+ </tr>
 
+<?php include_once "../php_files/booklist.php" ;?>
+
+</table>
 </body>
 </html>

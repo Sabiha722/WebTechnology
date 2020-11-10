@@ -1,0 +1,17 @@
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  padding-bottom: 50px;
+
+}
+#book_form{
+   background-image: url('../resource_files/bgnoise_lg.png');
+
+}
