@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <books>
   <book>
-    <fullname>dfdsf</fullname>
+    <fullname>dfdfs</fullname>
     <category>Architecture</category>
     <desc>sdfdf</desc>
-    <publisher>fgfdg</publisher>
-    <edition>fgfbb</edition>
-    <isbn>fbvcvbvb</isbn>
-    <pages>cvbvb</pages>
+    <publisher>fgfgd</publisher>
+    <edition>dfgfg</edition>
+    <isbn>bvcfvbvb</isbn>
+    <pages>cvbcvb</pages>
     <price>vbnvbn</price>
     <type>book</type>
   </book>

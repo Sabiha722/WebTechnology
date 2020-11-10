@@ -62,7 +62,7 @@ if(isset($_POST["addbook"])){
     }
     elseif (!is_numeric($_POST["pages"]))
     {
-    		$error_phone_code = "*Pages must be neumeric";
+    		$error_phone_code = "Pages must be neumeric";
     		$hasError = true;
     }
     else{
